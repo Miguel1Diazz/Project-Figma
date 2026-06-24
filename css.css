@@ -194,5 +194,79 @@ height: 544px;
 .section4 img{
     width: 93px;
     height: 93px;
-    
+
+}
+.free{
+    background: #2C353E;
+    width: 100%;
+    height: 589px;
+    display: flex;
+margin-top: 79px;
+    justify-content: center;
+    flex-direction: column;
+}
+.section5{
+    width: 1134px;
+    height: 471px;
+
+}
+.section5{
+    display: flex;
+    width: 100%;
+    justify-content: space-around;
+}
+.text5{
+    display: flex;
+    flex-direction: column;
+    row-gap: 20px;
+    text-align: justify;
+    margin-top: 78.87px;
+}
+.fffe{
+    font-weight: 600;
+    font-size: 21px;
+    color: white;
+}
+.fffe1 span{
+    font-size: 38px;
+    color: white;
+}
+.fffe1{
+    font-size: 16px;
+    font-weight: 400;
+    color: white;
+}
+.psd{
+    color: white;
+    font-size: 16px;
+    font-weight: 400;
+}
+.text5 button{
+    width: 138px;
+    height: 49px;
+    border:2px solid #FFFFFF4D;
+    color: white;
+    background: transparent;
+    border-radius: 12px;
+}
+hr{
+    width: 90%;
+    margin: auto;
+    color: #4B4B4B;
+}
+.ssssecf{
+    width: 90%;
+    height: 26px;
+    margin: auto;
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+}
+.ssscss{
+    width: 550px;
+    height: 26px;
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    color: white;
 }
