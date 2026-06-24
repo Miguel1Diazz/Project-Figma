@@ -168,3 +168,31 @@ height: 544px;
     width: 100%;
     text-align: center;
 }
+.section4{
+    width: 100%;
+    height: 501px;
+    background: url(./Background\ \(2\).png);
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+    row-gap: 30px;
+    text-align: center;
+}
+.waa{
+    font-weight: 700;
+    font-size: 38px;
+    color: white;
+}
+.cap{
+    width: 765px;
+    height: 52px;
+    font-weight: 400;
+    font-size: 16px;
+    color: white;
+}
+.section4 img{
+    width: 93px;
+    height: 93px;
+    
+}
