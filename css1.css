@@ -1,0 +1,13 @@
+*{
+    margin: 0;
+}
+img{
+    transition-property: all;
+    transition-duration: 1s;
+    transition-delay: 0.1s;
+    margin: auto;
+}
+img:hover{
+    border-radius: 50%;
+    rotate: 10turn;
+}
