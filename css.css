@@ -2,3 +2,33 @@
     margin: 0;
     font-family: sans-serif;
 }
+.header{
+    display: flex;
+    justify-content: space-evenly;
+    width: 100%;
+    height: 49px;
+    align-items: center;
+    align-items: center;
+    position: fixed ;
+    top: 10px;
+}
+.divlinks{
+    width: 574px;
+    display: flex;
+    justify-content: space-between;
+}
+.pdivlink{
+    font-weight: 500;
+    font-size: 16px;
+}
+.pdivlink1{
+    color: #35AFBF;
+    border-bottom: 2px solid #35AFBF;
+}
+.header button{
+    color: #FFFFFF;
+    background-color: #35AFBF;
+    padding: 15px;
+    border: none;
+    border-radius: 6px;
+}
